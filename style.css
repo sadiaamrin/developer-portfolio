@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.first-part{
+    display: flex;
+}
+.orange-color{
+    color: orange;
+}
+button{
+    background-color: orange;
+    height: 50px;
+    width: 150px;
+}
